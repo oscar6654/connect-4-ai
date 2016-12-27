@@ -1,0 +1,111 @@
+2016-11-20 22:06:55 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:00 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 4, 2.
+2016-11-20 22:07:00 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:01 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 2, 3.
+2016-11-20 22:07:01 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:06 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 5, 4.
+2016-11-20 22:07:06 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:06 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 3, 3.
+2016-11-20 22:07:06 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:11 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 3, 4.
+2016-11-20 22:07:11 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:11 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 4, 4.
+2016-11-20 22:07:11 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:16 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 4, 1.
+2016-11-20 22:07:16 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:17 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 4, 0.
+2016-11-20 22:07:17 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:22 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 1, 3.
+2016-11-20 22:07:22 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:22 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 4, 6.
+2016-11-20 22:07:22 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:27 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 5, 5.
+2016-11-20 22:07:27 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:28 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 5, 3.
+2016-11-20 22:07:28 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:33 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 6, 2.
+2016-11-20 22:07:33 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:33 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 5, 2.
+2016-11-20 22:07:33 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:38 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 7, 3.
+2016-11-20 22:07:38 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:38 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 4, 5.
+2016-11-20 22:07:38 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:43 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 2, 6.
+2016-11-20 22:07:43 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:43 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 0, 2.
+2016-11-20 22:07:43 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:48 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 5, 0.
+2016-11-20 22:07:48 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:48 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 1, 1.
+2016-11-20 22:07:48 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:53 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 2, 5.
+2016-11-20 22:07:53 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:53 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 6, 1.
+2016-11-20 22:07:53 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:07:57 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 8, 2.
+2016-11-20 22:07:57 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:07:57 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 7, 2.
+2016-11-20 22:07:57 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:02 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 5, 6.
+2016-11-20 22:08:02 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:02 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 1, 2.
+2016-11-20 22:08:02 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 2, 0.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 6, 3.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 0, 3.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 1, 4.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 0, 0.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 1, 0.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 4, 3.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 0, 1.
+2016-11-20 22:08:07 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:12 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 0, 4.
+2016-11-20 22:08:12 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:12 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 8, 3.
+2016-11-20 22:08:12 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:17 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 0, 5.
+2016-11-20 22:08:17 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:17 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 0, 6.
+2016-11-20 22:08:17 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:22 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 1, 5.
+2016-11-20 22:08:22 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:22 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 3, 5.
+2016-11-20 22:08:22 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:27 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 1, 6.
+2016-11-20 22:08:27 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:27 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 2, 1.
+2016-11-20 22:08:27 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:32 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 2, 2.
+2016-11-20 22:08:32 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:32 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 3, 1.
+2016-11-20 22:08:32 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:37 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 2, 4.
+2016-11-20 22:08:37 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:37 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 3, 0.
+2016-11-20 22:08:37 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:42 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 3, 2.
+2016-11-20 22:08:42 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:42 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 3, 6.
+2016-11-20 22:08:42 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:47 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 5, 1.
+2016-11-20 22:08:47 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:47 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 6, 0.
+2016-11-20 22:08:47 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:52 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 8, 6.
+2016-11-20 22:08:52 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:52 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 6, 4.
+2016-11-20 22:08:52 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:57 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 6, 5.
+2016-11-20 22:08:57 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  says:
+2016-11-20 22:08:57 [Thread-26] DEBUG connectK.ConnectK - Player 2 [UltimateTicTacToeBotAI]  returns move 6, 6.
+2016-11-20 22:08:57 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  says:
+2016-11-20 22:08:57 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  returns move 7, 6.
+2016-11-20 22:08:57 [Thread-26] DEBUG connectK.ConnectK - Player 1 [LazyAI]  (LazyAI) wins!
